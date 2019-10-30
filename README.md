@@ -5,8 +5,8 @@ Hier findest du Informationen und die Spielregeln zum Dramenquartett. Auf jeder 
 
 ### Das Spiel
 
-<img src="img/die-raeuber.jpg" alt="Die Räuber (Spielkarte)" style="border-width:1px; border-color:black;" />
-<img src="img/rueckseite.jpg" alt="Spielkarte Rückseite" style="border-width:1px; border-color:black;" />
+![Die Räuber (Spielkarte)](img/die-raeuber.jpg)
+![Spielkarte Rückseite](img/rueckseite.jpg)
 
 Frank Fischer und Anika Schultz: *Dramenquartett. Eine didaktische Intervention.* Unter Mitarbeit von Christopher Kittel, Carsten Milling, Peer Trilcke und Jana Wolf. Bern: edition taberna kritika 2019. 32 Blatt in Kartonbox, Farbdruck. ISBN: 978-3-905846-55-3. Preis: **€14** / **17 SFr.** ([im VLB](https://www.buchhandel.de/buch/Dramenquartett-9783905846553), [beim Verlag](http://www.etkbooks.com/dramenquartett/), [in der DNB]( http://d-nb.info/1196819424))
 
