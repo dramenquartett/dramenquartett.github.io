@@ -3,6 +3,13 @@
 
 Hier findest du die Spielregeln für das Dramenquartett. Auf jeder der 32 Karten ist ein soziales Netzwerk abgebildet, das aus einem deutschsprachigen Drama extrahiert wurde, auf Basis der Kopräsenz von Figuren.
 
+![Die Räuber (Spielkarte)](img/die-raeuber.jpg)
+![Spielkarte Rückseite](img/rueckseite.jpg)
+
+Frank Fischer und Anika Schultz: *Dramenquartett. Eine didaktische Intervention.* Bern: edition taberna kritika 2019. 32 Blatt in Kartonbox, Farbdruck. ISBN: 978-3-905846-55-3. Preis: **€14** / **17 SFr.** ([im VLB](https://www.buchhandel.de/buch/Dramenquartett-9783905846553), [beim Verlag](http://www.etkbooks.com/dramenquartett/))
+
+Es kann auch eine Version zum Selbstdruck heruntergeladen werden: [hier ohne](https://github.com/lehkost/dramenquartett/blob/master/print-version/dramenquartett_etk_books_2019.pdf) und hier [mit Schnittkante](https://github.com/lehkost/dramenquartett/raw/master/print-version/dramenquartett_etk_books_2019.pdf).
+
 ### Idee
 
 Mittels der automatischen Extraktion kommunikativer Beziehungen zwischen Figuren in fiktionalen Texten können umfangreiche Textkorpora analysiert werden. Allgemeine Strukturentwicklungen in den Nationalliteraturen lassen sich so auf einer neuen quantitativen Basis beschreiben.
@@ -52,4 +59,4 @@ Die Idee zu dieser didaktischen Intervention entstand am 17. September 2017 in M
 
 [Frank Fischer](https://www.hse.ru/en/org/persons/182492735) ([@umblaetterer](https://twitter.com/umblaetterer)) · Christopher Kittel · Carsten Milling · Anika Schultz · Peer Trilcke · Jana Wolf
 
-Das Spiel wurde am 1. März 2018 auf der DHd2018 in Köln veröffentlicht und steht unter der [Creative Commons-Lizenz CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+Das Poster zum Spiel wurde am 1. März 2018 auf der DHd2018 in Köln veröffentlicht und steht unter der [Creative Commons-Lizenz CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
