@@ -1,16 +1,18 @@
 # Dramenquartett
 ## Eine didaktische Intervention
 
-Hier findest du die Spielregeln für das Dramenquartett. Auf jeder der 32 Karten ist ein soziales Netzwerk abgebildet, das aus einem deutschsprachigen Drama extrahiert wurde, auf Basis der Kopräsenz von Figuren.
+Hier findest du Informationen und die Spielregeln zum Dramenquartett. Auf jeder der 32 Karten ist ein soziales Netzwerk abgebildet, das aus einem deutschsprachigen Drama extrahiert wurde, auf Basis der Kopräsenz von Figuren.
 
-![Die Räuber (Spielkarte)](img/die-raeuber.jpg)
-![Spielkarte Rückseite](img/rueckseite.jpg)
+### Das Spiel
 
-Frank Fischer und Anika Schultz: *Dramenquartett. Eine didaktische Intervention.* Bern: edition taberna kritika 2019. 32 Blatt in Kartonbox, Farbdruck. ISBN: 978-3-905846-55-3. Preis: **€14** / **17 SFr.** ([im VLB](https://www.buchhandel.de/buch/Dramenquartett-9783905846553), [beim Verlag](http://www.etkbooks.com/dramenquartett/))
+<img src="img/die-raeuber.jpg" alt="Die Räuber (Spielkarte)" border="1" />
+<img src="img/img/rueckseite.jpg" alt="Spielkarte Rückseite" border="1" />
+
+Frank Fischer und Anika Schultz: *Dramenquartett. Eine didaktische Intervention.* Unter Mitarbeit von Christopher Kittel, Carsten Milling, Peer Trilcke und Jana Wolf. Bern: edition taberna kritika 2019. 32 Blatt in Kartonbox, Farbdruck. ISBN: 978-3-905846-55-3. Preis: **€14** / **17 SFr.** ([im VLB](https://www.buchhandel.de/buch/Dramenquartett-9783905846553), [beim Verlag](http://www.etkbooks.com/dramenquartett/), [in der DNB]( http://d-nb.info/1196819424))
 
 Es kann auch eine Version zum Selbstdruck heruntergeladen werden: [hier ohne](https://github.com/lehkost/dramenquartett/blob/master/print-version/dramenquartett_etk_books_2019.pdf) und hier [mit Schnittkante](https://github.com/lehkost/dramenquartett/raw/master/print-version/dramenquartett_etk_books_2019.pdf).
 
-### Idee
+### Die Idee
 
 Mittels der automatischen Extraktion kommunikativer Beziehungen zwischen Figuren in fiktionalen Texten können umfangreiche Textkorpora analysiert werden. Allgemeine Strukturentwicklungen in den Nationalliteraturen lassen sich so auf einer neuen quantitativen Basis beschreiben.
 
@@ -28,7 +30,7 @@ Nachbearbeitet wurden die Graphen mit Gephi, als Layoutalgorithmus wurde im Norm
 
 Die Größe der Knoten und Labels entspricht meist dem jeweiligen gewichteten Grad. Der Farbverlauf von Rot nach Blau zeigt verschiedene Communitys an, die aufgrund von Standardschwellenwerten voneinander unterschieden werden und nicht per se inhaltlich sinnvoll sein müssen.
 
-### Auswahl der Stücke
+### Auswahl der Dramen
 
 Die 32 Spielkarten versammeln einen Minimalkanon, der von der Zeit der Gottschedischen Theaterreformen bis in die Moderne reicht (ca. 1730 bis 1930). Statt der lexikonartigen Beschreibung eines solchen Kanons (wie etwa im [»Dramenlexikon des 18. Jahrhunderts«](https://de.wikipedia.org/wiki/Dramenlexikon_des_18._Jahrhunderts), Hollmer/Meier 2001) besteht das Beschreibungsinstrument hier in Visualisierungen und quantitativen Werten, die Vergleichbarkeit herstellen – erst dieser Umstand vereint die verschiedenen Karten zu einem kompetitiven Spiel.
 
@@ -53,10 +55,10 @@ Das Kartenset stellt ein vollgültiges Quartettspiel dar. Die empfohlene Spielwe
 
 ## Entstehung
 
-Die Idee zu dieser didaktischen Intervention entstand am 17. September 2017 in Moskau, in einer Privatwohnung in der Nähe der Metrostation Baumanskaja. Programmiert wurde die Quartettfunktion am Folgetag im Café »Nikolai« gegenüber der Station Majakowskaja. Der erste Prototyp des Quartetts wurde am 6. Oktober 2017 in der Stolowaja der Higher School of Economics an der Staraja Basmannaja gespielt. In der Woche darauf folgten weitere Tests während des DFG-Symposiums »Digitale Literaturwissenschaft« in der Villa Vigoni am Lago di Como. Am Rande der HDH2017 in Málaga begann dann am 19. Oktober 2017 die Konzeption fürs Posterlayout. Dieses sowie das Kartendesign wurden von November 2017 bis Februar 2018 in Berlin präzisiert, meist im »No Fire No Glory« im Prenzlauer Berg, im »Café Oliv« in Mitte oder im »Kremanski« am Kottbusser Tor. Und dann war das Spiel fertig und hier ist es.
+Die Idee zu dieser didaktischen Intervention entstand am 17. September 2017 in Moskau, in einer Privatwohnung in der Nähe der Metrostation Baumanskaja. Programmiert wurde die Quartettfunktion am Folgetag im Café »Nikolai« gegenüber der Station Majakowskaja. Der erste Prototyp des Quartetts wurde am 6. Oktober 2017 in der Stolowaja der Higher School of Economics an der Staraja Basmannaja gespielt. In der Woche darauf folgten weitere Tests während des DFG-Symposiums »Digitale Literaturwissenschaft« in der Villa Vigoni am Lago di Como. Am Rande der HDH2017 in Málaga begann dann am 19. Oktober 2017 die Konzeption fürs Posterlayout. Dieses sowie das Kartendesign wurden von November 2017 bis Februar 2018 in Berlin präzisiert, meist im »No Fire No Glory« im Prenzlauer Berg, im »Café Oliv« in Mitte oder im »Kremanski« am Kottbusser Tor. Und dann war das Spiel fertig und wurde am 1. März 2018 zunächst als Konferenzposter auf der DHd2018 in Köln veröffentlicht ([DOI:10.6084/m9.figshare.5926363.v1](https://doi.org/10.6084/m9.figshare.5926363.v1)).
 
 ## Credits
 
-[Frank Fischer](https://www.hse.ru/en/org/persons/182492735) ([@umblaetterer](https://twitter.com/umblaetterer)) · Christopher Kittel · Carsten Milling · Anika Schultz · Peer Trilcke · Jana Wolf
+[Frank Fischer](https://www.hse.ru/en/org/persons/182492735) ([@umblaetterer](https://twitter.com/umblaetterer)) · Anika Schultz · Christopher Kittel · Carsten Milling · Peer Trilcke · Jana Wolf
 
-Das Poster zum Spiel wurde am 1. März 2018 auf der DHd2018 in Köln veröffentlicht und steht unter der [Creative Commons-Lizenz CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+Sowohl das ursprüngliche Poster als auch das Kartenspiel selbst stehen unter der [Creative Commons-Lizenz CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
