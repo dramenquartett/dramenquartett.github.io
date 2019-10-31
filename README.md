@@ -1,5 +1,4 @@
-# Dramenquartett
-## Eine didaktische Intervention
+## Dramenquartett – Eine didaktische Intervention
 
 Hier findest du Informationen und die Spielregeln zum Dramenquartett. Auf jeder der 32 Karten ist ein soziales Netzwerk abgebildet, das aus einem deutschsprachigen Drama extrahiert wurde, auf Basis der Kopräsenz von Figuren.
 
@@ -7,6 +6,7 @@ Hier findest du Informationen und die Spielregeln zum Dramenquartett. Auf jeder 
 
 ![Die Räuber (Spielkarte)](img/die-raeuber.jpg)
 ![Spielkarte Rückseite](img/rueckseite.jpg)
+![Reigen (Spielkarte)](img/reigen.jpg)
 
 Frank Fischer und Anika Schultz: *Dramenquartett. Eine didaktische Intervention.* Unter Mitarbeit von Christopher Kittel, Carsten Milling, Peer Trilcke und Jana Wolf. Bern: edition taberna kritika 2019. 32 Blatt in Kartonbox, Farbdruck. ISBN: 978-3-905846-55-3. Preis: **€14** / **17 SFr.** ([im VLB](https://www.buchhandel.de/buch/Dramenquartett-9783905846553), [beim Verlag](http://www.etkbooks.com/dramenquartett/), [in der DNB]( http://d-nb.info/1196819424))
 
@@ -26,7 +26,7 @@ Die Extraktion der Figurenbeziehungen folgt einer einfachen Operationalisierung:
 
 Eine Beziehung zwischen den einzelnen Knoten wird dann als Kante etabliert, wenn die beiden entsprechenden Figuren einen Sprechakt im selben Segment (einer Szene oder einem Akt) vollziehen. Zudem sind die Kanten gewichtet. Das heißt, je öfter zwei Figuren als Sprecher in gemeinsamen Szenen auftreten, desto höher ist der entsprechende Verknüpfungswert, was sich als entsprechend dickere Kante in der Graphvisualisierung manifestiert.
 
-Nachbearbeitet wurden die Graphen mit Gephi, als Layoutalgorithmus wurde im Normalfall »Force Atlas 2« benutzt.
+Nachbearbeitet wurden die Graphen mit [Gephi](https://gephi.org/), als Layoutalgorithmus wurde im Normalfall »Force Atlas 2« benutzt.
 
 Die Größe der Knoten und Labels entspricht meist dem jeweiligen gewichteten Grad. Der Farbverlauf von Rot nach Blau zeigt verschiedene Communitys an, die aufgrund von Standardschwellenwerten voneinander unterschieden werden und nicht per se inhaltlich sinnvoll sein müssen.
 
@@ -34,7 +34,7 @@ Die Größe der Knoten und Labels entspricht meist dem jeweiligen gewichteten Gr
 
 Die 32 Spielkarten versammeln einen Minimalkanon, der von der Zeit der Gottschedischen Theaterreformen bis in die Moderne reicht (ca. 1730 bis 1930). Statt der lexikonartigen Beschreibung eines solchen Kanons (wie etwa im [»Dramenlexikon des 18. Jahrhunderts«](https://de.wikipedia.org/wiki/Dramenlexikon_des_18._Jahrhunderts), Hollmer/Meier 2001) besteht das Beschreibungsinstrument hier in Visualisierungen und quantitativen Werten, die Vergleichbarkeit herstellen – erst dieser Umstand vereint die verschiedenen Karten zu einem kompetitiven Spiel.
 
-Die hier präsentierte Stückeauswahl ist eine Untermenge des von uns gepflegten [German Drama Corpus](https://dracor.org/). Unsere Python-Skriptsammlung »dramavis«, die eine Funktion zur Generierung solcher Kartenspiele besitzt, kann aber dazu genutzt werden, alternative Dramenkarten zu generieren, etwa gattungsspezifische oder epochenspezifische Sets (Dramen der Aufklärung, Romantische vs. Klassische Dramen etc.).
+Die hier präsentierte Stückeauswahl ist eine Untermenge des von uns gepflegten [German Drama Corpus](https://dracor.org/). Unsere Python-Skriptsammlung »dramavis«, die eine Funktion zur Generierung solcher Kartenspiele besitzt, kann aber dazu genutzt werden, alternative Dramenkarten zu generieren, etwa gattungsspezifische oder epochenspezifische Sets (Dramen der Aufklärung, romantische vs. klassische Dramen etc.).
 
 ### Graphen und Werte
 
@@ -53,11 +53,11 @@ Die weiteren Informationen auf den Karten setzen sich aus (Kanonwissen präsenti
 
 Das Kartenset stellt ein vollgültiges Quartettspiel dar. Die empfohlene Spielweise ist allerdings Supertrumpf, [die allgemeinen Spielregeln sind auf Wikipedia nachzulesen](https://de.wikipedia.org/wiki/Supertrumpf). Welcher Wert als ›besser‹ gilt, kann im Prinzip selbst festgelegt werden. Unser Vorschlag: Der höhere Wert sticht bei Netzwerkgröße, Netzwerkdurchmesser, Netzwerkdichte, Clusterkoeffizient, Maximaler Grad und Anzahl Segmente. Der niedrigere Wert sticht bei Durchschnittliche Pfadlänge.
 
-## Entstehung
+### Entstehung
 
 Die Idee zu dieser didaktischen Intervention entstand am 17. September 2017 in Moskau, in einer Privatwohnung in der Nähe der Metrostation Baumanskaja. Programmiert wurde die Quartettfunktion am Folgetag im Café »Nikolai« gegenüber der Station Majakowskaja. Der erste Prototyp des Quartetts wurde am 6. Oktober 2017 in der Stolowaja der Higher School of Economics an der Staraja Basmannaja gespielt. In der Woche darauf folgten weitere Tests während des DFG-Symposiums »Digitale Literaturwissenschaft« in der Villa Vigoni am Lago di Como. Am Rande der HDH2017 in Málaga begann dann am 19. Oktober 2017 die Konzeption fürs Posterlayout. Dieses sowie das Kartendesign wurden von November 2017 bis Februar 2018 in Berlin präzisiert, meist im »No Fire No Glory« im Prenzlauer Berg, im »Café Oliv« in Mitte oder im »Kremanski« am Kottbusser Tor. Und dann war das Spiel fertig und wurde am 1. März 2018 zunächst als Konferenzposter auf der DHd2018 in Köln veröffentlicht ([DOI:10.6084/m9.figshare.5926363.v1](https://doi.org/10.6084/m9.figshare.5926363.v1)).
 
-## Credits
+### Credits
 
 [Frank Fischer](https://www.hse.ru/en/org/persons/182492735) ([@umblaetterer](https://twitter.com/umblaetterer)) · Anika Schultz · Christopher Kittel · Carsten Milling · Peer Trilcke · Jana Wolf
 
