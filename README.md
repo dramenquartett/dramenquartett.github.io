@@ -10,7 +10,7 @@ Hier findest du Informationen und die Spielregeln zum Dramenquartett. Auf jeder 
 
 Frank Fischer und Anika Schultz: *Dramenquartett. Eine didaktische Intervention.* Unter Mitarbeit von Christopher Kittel, Carsten Milling, Peer Trilcke und Jana Wolf. Bern: edition taberna kritika 2019. 32 Blatt in Kartonbox, Farbdruck. ISBN: 978-3-905846-55-3. Preis: **€14** / **17 SFr.** ([im VLB](https://www.buchhandel.de/buch/Dramenquartett-9783905846553), [beim Verlag](http://www.etkbooks.com/dramenquartett/), [in der DNB]( http://d-nb.info/1196819424))
 
-Es kann auch eine Version zum Selbstdruck heruntergeladen werden: [hier ohne](https://github.com/lehkost/dramenquartett/blob/master/print-version/dramenquartett_etk_books_2019.pdf) und hier [mit Schnittkante](https://github.com/lehkost/dramenquartett/raw/master/print-version/dramenquartett_etk_books_2019.pdf).
+Es kann auch eine Version zum Selbstdruck heruntergeladen werden: [hier ohne](https://github.com/lehkost/dramenquartett/raw/master/print-version/dramenquartett_etk_books_2019.pdf) und hier [mit Schnittkante](https://github.com/lehkost/dramenquartett/raw/master/print-version/dramenquartett_etk_books_2019_mit_schnittkante.pdf).
 
 ### Die Idee
 
