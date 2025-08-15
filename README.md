@@ -12,6 +12,8 @@ Frank Fischer und Anika Schultz: *Dramenquartett. Eine didaktische Intervention.
 
 Es kann auch eine Version zum Selbstdruck heruntergeladen werden: [hier ohne](https://github.com/lehkost/dramenquartett/raw/master/print-version/dramenquartett_etk_books_2019.pdf) und hier [mit Schnittkante](https://github.com/lehkost/dramenquartett/raw/master/print-version/dramenquartett_etk_books_2019_mit_schnittkante.pdf).
 
+:warning: 2024 ist eine internationale Version des Kartenspiels erschienen, die auch weiterhin erhältlich ist: [»Battle of the Plays«](https://battle-of-the-plays.github.io/).
+
 ### Die Idee
 
 Mittels der automatischen Extraktion kommunikativer Beziehungen zwischen Figuren in fiktionalen Texten können umfangreiche Textkorpora analysiert werden. Allgemeine Strukturentwicklungen in den Nationalliteraturen lassen sich so auf einer neuen quantitativen Basis beschreiben.
@@ -59,6 +61,6 @@ Die Idee zu dieser didaktischen Intervention entstand am 17. September 2017 in M
 
 ### Credits
 
-[Frank Fischer](https://lehkost.github.io/) ([@umblaetterer](https://twitter.com/umblaetterer)) · Anika Schultz · Christopher Kittel · Carsten Milling · Peer Trilcke · Jana Wolf
+[Frank Fischer](https://lehkost.github.io/) · Anika Schultz · Christopher Kittel · Carsten Milling · [Peer Trilcke](https://www.uni-potsdam.de/de/lit-19-jhd/peertrilcke) · Jana Wolf
 
 Sowohl das ursprüngliche Poster als auch das Kartenspiel selbst stehen unter der [Creative Commons-Lizenz CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
